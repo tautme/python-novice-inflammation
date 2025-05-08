@@ -280,8 +280,7 @@ everything:
 
 ```python
 small = data[:3, 36:]
-print('small is:')
-print(small)
+print('small is: \n', small)
 ```
 
 The above example selects rows 0 through 2 and columns 36 through to the end of the array.
